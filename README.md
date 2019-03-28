@@ -3,6 +3,12 @@
 ### Description:
   OnLabTest is a custom theme wordpress project which include the basic of a  wordpress project, and with all custom functionalities/plugins/widgets to fit into the assigned task.
   
+### Instalation
+  1. Clone Proyect into your wordpress environment (xampp, lamp, wamp, lemp, etc):
+  2. open wp-config.php and modify information to fit into your environment, also create a new bd called `onlabtest` or with any name you want, but remember to modify that information in the php file
+  3. import the SQL file `onlabtestDB.zip` into the new database
+  4. admin user: `diff txileno` . Password: `ciencias87.`
+  
 ### Components:
   1. in wp-content:      
       - plugins:
