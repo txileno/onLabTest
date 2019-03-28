@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="400075a7-7d46-4397-ba53-cd95006975ba" name="Default" comment="" />
+    <list default="true" id="400075a7-7d46-4397-ba53-cd95006975ba" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/hello.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/onlabtest/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/onlabtest/index.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +19,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/onlabtest/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="99" column="1" lean-forward="true" selection-end-line="307" selection-end-column="1" />
+            <state relative-caret-position="264">
+              <caret line="101" column="22" lean-forward="true" selection-end-line="307" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -23,42 +28,32 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/onlabtest/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="62" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="62" />
+            <state relative-caret-position="748">
+              <caret line="241" column="77" selection-start-line="241" selection-start-column="68" selection-end-line="241" selection-end-column="77" />
               <folding>
+                <element signature="e#111#5160#0#HTML" />
                 <element signature="e#2311#3523#0#HTML" />
                 <element signature="e#3661#4870#0#HTML" />
-                <element signature="e#695#7648#0#HTML" />
-                <element signature="e#7848#11412#0#HTML" />
+                <element signature="e#731#1705#0#HTML" />
+                <element signature="e#1719#3257#0#HTML" />
+                <element signature="e#3270#4931#0#HTML" />
+                <element signature="e#4944#6482#0#HTML" />
+                <element signature="e#6495#7580#0#HTML" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/onlabtest/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="85" selection-start-line="10" selection-start-column="85" selection-end-line="10" selection-end-column="85" />
+            <state relative-caret-position="306">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="n#onlab_test_features#0;n#!!top" />
                 <element signature="n#add_meta_tags#0;n#!!top" />
                 <element signature="n#onlab_test_widgets#0;n#!!top" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/onlabtest/css/style.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="scripts.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/onlabtest/js/scripts.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -82,7 +77,7 @@
       <find>&lt;hr</find>
       <find>site-footer-headline</find>
       <find>img</find>
-      <find />
+      <find>footer pre</find>
       <find>page-links__title</find>
       <find>margin-bottom-50</find>
       <find>68</find>
@@ -90,24 +85,27 @@
       <find>index-</find>
       <find>informative-header</find>
       <find>.informative-image</find>
-      <find />
+      <find>footer h3</find>
       <find>modal-c</find>
       <find>hola</find>
       <find>modal-container</find>
-      <find />
+      <find>li {</find>
       <find>.padding-</find>
-      <find />
+      <find>nav-list li</find>
       <find>cursor</find>
       <find>option</find>
       <find>padding-top-2</find>
       <find>-100</find>
-      <find />
-      <find>200</find>
       <find>onlab_test_scripts</find>
+      <find>top: -50</find>
+      <find>200</find>
     </findStrings>
     <replaceStrings>
       <replace>li</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock:///Dummy.txt" root0="SKIP_INSPECTION" />
@@ -125,11 +123,11 @@
         <option value="$PROJECT_DIR$/wp-content/plugins/montevideo-temperature/css/style.css" />
         <option value="$PROJECT_DIR$/wp-content/plugins/montevideo-temperature/montevideo-temperature.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/onlabtest/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/onlabtest/js/scripts.js" />
         <option value="$PROJECT_DIR$/wp-content/themes/onlabtest/js/scripts.min.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/onlabtest/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/onlabtest/style.min.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/onlabtest/index.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/onlabtest/functions.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/onlabtest/js/scripts.js" />
       </list>
     </option>
   </component>
@@ -142,11 +140,12 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="1314" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -197,6 +196,23 @@
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="onlabtest" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="onlabtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="onlabtest" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="onlabtest" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts.js" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="onlabtest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="onlabtest" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="onlabtest" type="462c0819:PsiDirectoryNode" />
               <item name="style.css" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
@@ -235,12 +251,12 @@
       <option name="presentableId" value="Default" />
       <updated>1553463214951</updated>
       <workItem from="1553463216267" duration="13825000" />
-      <workItem from="1553481987130" duration="51416000" />
+      <workItem from="1553481987130" duration="53245000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65241000" />
+    <option name="totallyTimeSpent" value="67070000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -251,7 +267,7 @@
       <window_info anchor="bottom" id="Command Line Tools Console" weight="0.32900432" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32900432" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -324,10 +340,14 @@
         <state relative-caret-position="357">
           <caret line="21" column="57" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
           <folding>
+            <element signature="e#111#5160#0#HTML" />
             <element signature="e#2311#3523#0#HTML" />
             <element signature="e#3661#4870#0#HTML" />
-            <element signature="e#695#7648#0#HTML" />
-            <element signature="e#7848#11412#0#HTML" />
+            <element signature="e#731#1705#0#HTML" />
+            <element signature="e#1719#3257#0#HTML" />
+            <element signature="e#3270#4931#0#HTML" />
+            <element signature="e#4944#6482#0#HTML" />
+            <element signature="e#6495#7580#0#HTML" />
           </folding>
         </state>
       </provider>
@@ -430,66 +450,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/montevideo-temperature/montevideo-temperature.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="30" column="58" selection-start-line="30" selection-end-line="31" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/onlabtest/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/onlabtest/js/scripts.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="35" lean-forward="true" selection-start-column="35" selection-end-column="35" />
+        <state relative-caret-position="17">
+          <caret column="216" selection-start-column="216" selection-end-column="216" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/onlabtest/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/onlabtest/style.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret column="3500" selection-start-column="3500" selection-end-column="3500" />
+        <state relative-caret-position="68">
+          <caret column="699" selection-start-column="699" selection-end-column="699" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/onlabtest/css/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/onlabtest/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="99" column="1" lean-forward="true" selection-end-line="307" selection-end-column="1" />
+        <state relative-caret-position="264">
+          <caret line="101" column="22" lean-forward="true" selection-end-line="307" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/montevideo-temperature/montevideo-temperature.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/onlabtest/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="62" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="62" />
+        <state relative-caret-position="748">
+          <caret line="241" column="77" selection-start-line="241" selection-start-column="68" selection-end-line="241" selection-end-column="77" />
           <folding>
+            <element signature="e#111#5160#0#HTML" />
             <element signature="e#2311#3523#0#HTML" />
             <element signature="e#3661#4870#0#HTML" />
-            <element signature="e#695#7648#0#HTML" />
-            <element signature="e#7848#11412#0#HTML" />
+            <element signature="e#731#1705#0#HTML" />
+            <element signature="e#1719#3257#0#HTML" />
+            <element signature="e#3270#4931#0#HTML" />
+            <element signature="e#4944#6482#0#HTML" />
+            <element signature="e#6495#7580#0#HTML" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/onlabtest/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="85" selection-start-line="10" selection-start-column="85" selection-end-line="10" selection-end-column="85" />
+        <state relative-caret-position="306">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="n#onlab_test_features#0;n#!!top" />
             <element signature="n#add_meta_tags#0;n#!!top" />
             <element signature="n#onlab_test_widgets#0;n#!!top" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/onlabtest/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
         </state>
       </provider>
     </entry>

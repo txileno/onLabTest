@@ -93,7 +93,7 @@
 
         </div>
         <div class="container">
-            <div class="row margin-bottom-50 justify-content-center">
+            <div class="row margin-bottom-50 justify-content-center section-1">
                 <div class="col-lg-9">
                     <ul class="nav justify-content-center">
                         <li class="nav-item">
@@ -239,7 +239,7 @@
 	        $theParents = array_reverse(get_post_ancestors($postId));
 	        ?>
 
-            <div class="row margin-bottom-30 justify-content-center">
+            <div class="row margin-bottom-30 justify-content-center section-2">
                 <div class="col-lg-11">
                     <?php if($theParents){ ?>
                         <div class="index-breadcrumb">
